@@ -1,0 +1,9 @@
+{
+  "project": "boilerplate",
+  "presentation": "laravel-inertia-react",
+  "foundation": "project-boilerplate-laravel-inertia-react",
+  "foundationCommit": null,
+  "documentation": "https://github.com/liberusoftware/documentation/blob/main/projects/boilerplate/README.md",
+  "status": "skeleton",
+  "enabledModules": []
+}
