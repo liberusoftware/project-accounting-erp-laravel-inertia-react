@@ -1,6 +1,6 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "liberusoftware/project-boilerplate-laravel-inertia-react",
+    "name": "liberusoftware/project-accounting-erp-laravel-inertia-react",
     "type": "project",
     "description": "Liberu Laravel and Inertia React application foundation",
     "keywords": [
