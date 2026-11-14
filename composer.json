@@ -85,5 +85,10 @@
         }
     },
     "minimum-stability": "stable",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "homepage": "https://github.com/liberusoftware/project-accounting-erp-laravel-inertia-react",
+    "support": {
+        "issues": "https://github.com/liberusoftware/project-accounting-erp-laravel-inertia-react/issues",
+        "source": "https://github.com/liberusoftware/project-accounting-erp-laravel-inertia-react"
+    }
 }
